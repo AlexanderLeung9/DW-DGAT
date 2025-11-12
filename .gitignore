@@ -1,0 +1,13 @@
+/data/0m/
+/.idea/
+/data/best_net_state.dat
+__pycache__
+logs
+pictures
+/data/deterministic_net_state.dat
+/data/nii_gz_net_state.dat
+.vs
+.idea
+/data/all_data.pkl
+/data/all_data-FA.pkl
+figures
